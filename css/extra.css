@@ -1,0 +1,51 @@
+body {
+    font-size: 18px;
+}
+
+.navbar,
+.navbar-brand,
+.form-control {
+    font-size: 1em;
+}
+
+.navbar-brand {
+    max-width: calc(100vw - 120px);
+}
+
+.navbar-brand img,
+.navbar-brand svg {
+    width: auto;
+    height: 40px;
+    max-width: 100%;
+}
+
+.navbar-brand small {
+    display: block;
+    margin-top: 5px;
+    white-space: normal;
+}
+
+.nav.navbar-nav {
+    margin-left: auto;
+}
+
+.nav.navbar-nav.ml-auto {
+    margin-left: 0 !important;
+}
+
+div[role=main] a,
+footer a {
+    text-decoration: underline;
+    text-underline-position: under;
+    text-decoration-thickness: 10%;
+}
+
+div[role=main] a:hover,
+footer a:hover {
+    text-decoration-thickness: 20%;
+}
+
+footer {
+    font-size: 14px;
+    color: #777;
+}
