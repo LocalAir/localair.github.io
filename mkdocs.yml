@@ -1,0 +1,18 @@
+site_name: Local Air
+site_url: https://localair.github.io/
+site_description: Mapping the local environment using e‑scooters
+site_author: Local Air
+site_favicon: images/favicon.png
+
+nav:
+    - Team: team.md
+    - Data: data-sources.md
+
+theme:
+    name: yeti
+    custom_dir: theme
+    locale: en_GB
+    highlightjs:
+
+extra_css:
+    - css/extra.css
