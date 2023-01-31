@@ -49,3 +49,13 @@ footer {
     font-size: 14px;
     color: #777;
 }
+
+footer img {
+    max-height: 40px;
+    filter: grayscale(100%) contrast(200%) opacity(50%);
+}
+
+footer a:hover img {
+    max-height: 40px;
+    filter: grayscale(100%) contrast(200%) opacity(80%);
+}
