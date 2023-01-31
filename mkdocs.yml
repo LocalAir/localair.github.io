@@ -5,8 +5,8 @@ site_author: Local Air
 site_favicon: images/favicon.png
 
 nav:
+    - FAQ: faq.md
     - Team: team.md
-    - Data: data-sources.md
 
 theme:
     name: yeti

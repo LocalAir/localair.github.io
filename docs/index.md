@@ -1,11 +1,9 @@
-Cars and vans are significant contributors to air pollution and climate change. This project will enable analysis of issues and trends relating to use of these vehicles at a national, regional and local level. 
+__We are working to develop novel environmental monitoring hardware capable of being mounted onto electric scooters.__
 
-The [project team](/team) will develop and link two [data sources](/data-sources) focused on the registration and usage patterns of all light duty vehicles (under 3.5 tonnes) in Great Britain, to create a single de-identified, research-ready dataset.
+To-date, we have produced a proof of concept device and demonstrated that it can be intergrated into the scooters. We are now about to deploy 30 prototype units around Bristol. We hope that in time the data collected will help generate a near-real-time pollution map of Bristol. 
 
-By combining this data, the project will create an invaluable resource for researchers to address urgent transport, environmental and social policy questions. Research using this data will have the potential to inform government action on climate change, air quality and health, road safety and taxation. 
+We are partnering with Voi and the West of England Combined Authority, who are allowing our devices to be fitted onto scooters driven by project volunteers. 
 
-Project timeline: July 2022 – March 2026 
+![A mockup of a scooter with pollution sensor attached](images/voi_pollution_mockup.png)
 
-- [ADR press release](https://www.adruk.org/news-publications/news-blogs/adr-uk-funds-major-new-data-linkage-projects-to-address-vital-policy-questions/)
-
-- [University of Leeds project page](https://environment.leeds.ac.uk/dir-record/research-projects/1794/cars-connecting-administrative-vehicle-data-for-research-on-sustainable-transport)
+Project timeline: Feburary 2023 – April 2024 
