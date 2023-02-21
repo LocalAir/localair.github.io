@@ -24,9 +24,13 @@
 {% endblock %}
 
 {% block content %}
-    <div class="col-md-9" role="main">{% include "content.html" %}</div>
-    {% if page.meta.show_toc %}
-        <div class="col-md-3">{% include "toc.html" %}</div>
+    {% if page.meta.full_width %}
+        <div class="col" role="main">{% include "content.html" %}</div>
+    {% else %}
+        <div class="col-md-9" role="main">{% include "content.html" %}</div>
+        {% if page.meta.show_toc %}
+            <div class="col-md-3">{% include "toc.html" %}</div>
+        {% endif %}
     {% endif %}
 {% endblock %}
 
@@ -39,6 +43,7 @@
             </a>
         </p>
         <p>
+            Project timeline: February 2023 – April 2024.<br>
             Local Air is funded by an <a href="https://www.bristol.ac.uk/red/industry/impact-acceleration-accounts/epsrc-iaa/">EPSRC Impact Acceleration Award</a>.
         </p>
     </div>

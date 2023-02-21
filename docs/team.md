@@ -5,6 +5,3 @@
 - James Thomas
 
 - Sam Gunnner
-
-- Professor Eddie Wilson
-
