@@ -2,17 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://localair.github.io/</loc>
-         <lastmod>2023-01-31</lastmod>
+         <lastmod>2023-02-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://localair.github.io/contact/</loc>
+         <lastmod>2023-02-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://localair.github.io/faq/</loc>
-         <lastmod>2023-01-31</lastmod>
+         <lastmod>2023-02-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://localair.github.io/join/</loc>
+         <lastmod>2023-02-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://localair.github.io/team/</loc>
-         <lastmod>2023-01-31</lastmod>
+         <lastmod>2023-02-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
