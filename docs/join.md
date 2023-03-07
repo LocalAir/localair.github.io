@@ -30,6 +30,6 @@ At the end of the project you can __find out about your own pollution exposure l
 
 At this stage, we are collecting expression of interest from long term rental users.
 
-[Register your interest to take part](#){.btn .btn-primary}
+[Register your interest to take part](https://forms.office.com/e/tqYs3f14ds){.btn .btn-primary target=_blank}
 
 Don't worry, you will have the opportunity to ask further questions and are not committing to anything at this stage.
