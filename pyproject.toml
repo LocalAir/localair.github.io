@@ -1,0 +1,15 @@
+[project]
+name = "localair-github-io"
+version = "0"
+requires-python = "~=3.14.0"
+dependencies = [
+    "properdocs>=1.6.7",
+    "properdocs-theme-mkdocs>=1.6.7",
+    "mkdocs-bootswatch>=1.1",
+]
+
+# mkdocs-bootswatch depends on mkdocs, but we use properdocs, so exclude mkdocs here
+[tool.uv]
+override-dependencies = [
+    "mkdocs; sys_platform == 'never'", 
+]
