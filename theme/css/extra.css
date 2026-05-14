@@ -40,12 +40,8 @@ body.homepage .navbar-brand small {
     font-size: 1em;
 }
 
-.nav.navbar-nav {
-    margin-left: auto;
-}
-
-.nav.navbar-nav.ml-auto {
-    margin-left: 0 !important;
+.navbar-collapse {
+    justify-content: end;
 }
 
 .nav.navbar-nav .nav-link {
