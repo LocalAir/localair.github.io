@@ -41,8 +41,6 @@ The answer was yes.
 
 ## Round 2 — Real-world testing
 
-!!! image "Placeholder: enclosure design renders and photos, Bristol bike deployment photos, close-up of the enclosure"
-
 <div style="display: flex; gap: 20px; align-items: flex-start;">
   <div markdown="1">
 With the sensing technology selected, attention turned to building something that could survive the real world. Voi, then Bristol's e-scooter fleet operator, provided an e-scooter to the project as a laboratory testbed. This allowed the team to understand exactly how the sensor would need to integrate with the scooter's mechanical and electrical systems.
