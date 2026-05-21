@@ -5,10 +5,11 @@ site_author: Local Air
 site_favicon: images/favicon.png
 
 nav:
-    - Register interest: join.md
-    - FAQ: faq.md
+    - Home: index.md
+    - Sensor: sensor.md
+    - Deployment: deployment.md
+    - Data: data.md
     - Team: team.md
-    - Contact us: contact.md
 
 theme:
     name: yeti
