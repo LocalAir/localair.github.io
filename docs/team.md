@@ -1,3 +1,7 @@
+---
+show_toc: true
+---
+
 # The Team
 
 Local Air is led by a small team at the University of Bristol, combining expertise in hardware engineering, data science, and urban research.

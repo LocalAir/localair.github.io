@@ -87,7 +87,7 @@ The Round 3 sensor measures the following pollutants and environmental parameter
 
 We are now seeking funding to carry out a large-scale deployment in Bristol, scaling up from 10 sensors to 100 and extending the data collection period to three years. This next phase will also involve a redesign of the sensor to integrate with Dott's (who now operate the e-scooter fleet in Bristol) updated vehicle, building on everything learned in the previous three rounds of development.
 
-If you're interested in supporting or partnering with this work, [get in touch](contact.md).
+If you're interested in supporting or partnering with this work, [get in touch](team.md#contact-us-and-get-involved).
 
 ---
 

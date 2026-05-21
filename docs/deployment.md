@@ -48,4 +48,4 @@ Maintaining a fleet of electric scooters spread across a city is a logistically 
 
 The London deployment proved that the Local Air approach works. We are currently seeking funding to deploy the next phase, which is to scale it up to 100 sensors, across Bristol, over three years. That deployment will be supported by a far more robust operational infrastructure, closer integration with our e-scooter operator partner Dott, and a suite of data processing tools built on everything we learned in London.
 
-Find out more about the [data we gathered](data.md), or [get in touch](contact.md) if you'd like to be involved in the next phase.
+Find out more about the [data we gathered](data.md), or [get in touch](team.md#contact-us-and-get-involved) if you'd like to be involved in the next phase.
