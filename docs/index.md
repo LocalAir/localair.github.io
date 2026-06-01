@@ -17,7 +17,7 @@ If you have any questions, you can [contact the team](team.md#contact-us-and-get
 </div>
 
 <div class="col-lg-4" markdown>
-![A mock-up of a scooter with pollution sensor attached](images/voi_pollution_mockup.png)
+<img src="images/Photo_of_sensor.jpg" alt="A photo of the LocalAir sensor attached for an electric scooter" width="250"/>
 </div>
 </div>
 
